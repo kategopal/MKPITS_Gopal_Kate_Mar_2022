@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int num,n1,n2,n3,cube;
+	printf("enter 3 digit num"),
+	scanf("%d",&num);
+	n1=num%10;
+	num=num/10;
+	n2=num%10;
+	num=num/10;
+	n3=num%10;
+	cube=n1*n1*n1*+n2*n2*n2+n3*n3*n3;
+	printf("cube=%d",cube);
+}
