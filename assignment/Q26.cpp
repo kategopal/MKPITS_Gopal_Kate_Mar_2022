@@ -1,0 +1,56 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int num;
+	printf("enter the value :");
+	scanf("%d",&num);
+	if(num==1)
+	{
+		printf("january");
+	}
+	if(num==2)
+	{
+		printf("february");
+	}
+	if(num==3)
+	{
+		printf("march");
+	}
+	if(num==4)
+	{
+		printf("april");
+	}
+	if(num==5)
+	{
+		printf("may");
+	}
+	if(num==6)
+	{
+		printf("june");
+	}
+	if(num==7)
+	{
+		printf("july");
+	}
+	if(num==8)
+	{
+		printf("august");
+	}
+	if(num==9)
+	{
+		printf("september");
+	}
+	if(num==10)
+	{
+		printf("octomber");
+	}
+	if(num==11)
+	{
+		printf("november");
+	}
+	if(num==12)
+	{
+		printf("december");
+	}
+}
