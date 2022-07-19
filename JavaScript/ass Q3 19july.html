@@ -1,0 +1,20 @@
+<html>
+<script>
+function display()
+{
+var rad=parseInt(document.getElementById("g1").value);
+var area=3.142*rad*rad;
+var circumference=2*3.142*rad*rad;
+var r=document.getElementById("aoc");
+r.innerText=area;
+var r=document.getElementById("coc");
+r.innerText=circumference;
+}
+</script>
+<form>
+Enter radius:  <input type=text name="g1" id="g1"/><br><br>
+<input type=button value="click" onclick="display()"/><br><br>
+area of circle:<span id="aoc"></span><br><br>
+area of circumference:<span id="coc"></span><br><br>
+</form>
+</html>
