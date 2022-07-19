@@ -1,0 +1,20 @@
+<html>
+<script>
+function display()
+{
+var n1=parseInt(document.getElementById("g1").value);
+var n2=parseInt(document.getElementById("g2").value);
+var n3=parseInt(document.getElementById("g3").value);
+var volume=n1*n2*n3;
+var r=document.getElementById("vol");
+r.innerText=volume;
+}
+</script>
+<form>
+enter number1: <input type=text name="g1" id="g1"/>;<br><br>
+enter number2: <input type=text name="g2" id="g2"/>;<br><br>
+enter number3: <input type=text name="g3" id="g3"/>;<br><br>
+<input type=button value="click" onclick="display()"/>;<br><br>
+volume:<span id="vol"></span><br><br>
+</form>
+</html>
