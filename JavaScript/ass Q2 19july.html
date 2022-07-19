@@ -1,0 +1,19 @@
+<html>
+<script>
+function display()
+{
+var num1=parseInt(document.getElementById("g1").value);
+var num2=parseInt(document.getElementById("g2").value);
+var result=num1*num2;
+var r=document.getElementById("res");
+r.innerText=result;
+}
+</script>
+<form>
+enter num1:<input type=text name="g1" id="g1"/><br><br><br>
+enter num2:<input type=text name="g2" id="g2"/><br><br>
+<input type=button value="click" onclick="display()"/><br><br>
+area of rectangle:<span id="res"></span>
+</form>
+</html>
+
