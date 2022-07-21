@@ -1,0 +1,20 @@
+<!-- wap to accept productname , productrate , quantity then calculate totalamount-->
+<html>
+<script>
+function display()
+{
+var pdn=document.getElementById("t1").value;
+var pdr=parseInt(document.getElementById("t2").value);
+var Qty=parseInt(document.getElementById("t3").value);
+var total=pdr*Qty;
+var r1=document.getElementById("g1");
+r1.innerText=total;
+}
+</script>
+enter product name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="t1"/><br><br>
+enter product rate:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="t2"/><br><br>
+enter product Quantity:<input type="text" id="t3"/><br><br>
+<input type="button" value="click" onclick="display();"/><br><br>
+total amount:<span id="g1"></span><br><br>
+</script>
+</html>
