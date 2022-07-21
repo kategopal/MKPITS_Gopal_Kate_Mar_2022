@@ -1,0 +1,36 @@
+<html>
+<script>
+function display()
+{
+var num1=parseInt(document.getElementById("t1").value);
+var num2=parseInt(document.getElementById("t2").value);
+var num3=document.getElementById("t3").value;
+if(num3=="+")
+{
+var res=num1+num2;
+var r1=document.getElementById("g1");
+r1.innerText=res;
+}
+else if(num3=="-")
+{
+var res=num1-num2;
+var r1=document.getElementById("g1");
+r1.innerText=res;
+}
+else
+{
+var res=num1*num2;
+var r1=document.getElementById("g1");
+r1.innerText=res;
+}
+
+}
+</script>
+<body>
+enter 1 num: <input type="text" id="t1" /><br><br>
+enter 2 num: <input type="text" id="t2" /><br><br>
+enter 3 num: <input type="text" id="t3" /><br><br>
+<input type="button" value="click" onclick="display();"/>
+result:<span id="g1"></span>
+</body>
+</html>
