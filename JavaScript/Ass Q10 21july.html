@@ -1,0 +1,33 @@
+<!---wap to accept empname and basic salary calculate hra ie 23% of basicsalary, da ie 43% of basic salary then calculate total salary =hra+da+basicsalary--->
+<html>
+<script>
+function display()
+{
+var empname=document.getElementById("t1").value;
+var bs=parseInt(document.getElementById("t2").value);
+var hra=0.23*bs;
+var da=0.43*bs;
+var ts=hra+da+bs;
+
+var r1=document.getElementById("g1");
+r1.innerText=hra;
+var r2=document.getElementById("g2");
+r2.innerText=da;
+var r3=document.getElementById("g3");
+r3.innerText=ts
+}
+</script>
+<body>
+<form>
+enter empname:<input type="text" name="t1" id="t1"/><br><br>
+enter basic sallery:<input type="text" name="t2" id="t2"/><br><br>
+<input type="button" value="click"  onclick="display();"/><br><br>
+HRA:<span id="g1"></span><br><br>
+DA:<span id="g2"></span><br><br>
+Total sallery:<span id="g3"></span><br><br>
+</body>
+</form>
+</html>
+
+
+
