@@ -1,0 +1,43 @@
+<!--wap to accept employee name and basic salary and designation then calculate bonus =5000 for
+manager , 2000 for clerk and 1000 for peon and then display empname , totalsal(basic + bonus ) and
+bonus--->
+<html>
+<script>
+function display()
+{
+var name1=document.getElementById("n1").value;
+var name2=document.getElementById("n2").value;
+var name3=document.getElementById("n3").value;
+var salary1=parseInt(document.getElementById("s1").value);
+var salary2=parseInt(document.getElementById("s2").value);
+var salary3=parseInt(document.getElementById("s3").value);
+var desi1=document.getElementById("d1").value;
+var desi2=document.getElementById("d2").value;
+var desi3=document.getElementById("d3").value;
+var totalsal1=salary1+5000;
+var totalsal2=salary2+2000;
+var totalsal3=salary3+1000;
+var r1=document.getElementById("t1");
+r1.innerText=totalsal1;
+var r2=document.getElementById("t2");
+r2.innerText=totalsal2;
+var r3=document.getElementById("t3");
+r3.innerText=totalsal3;
+}
+</script>
+enter name1:<input type=text name="n1" id="n1"/><br><br>
+enter name2:<input type=text name="n2" id="n2"/><br><br>
+enter name3:<input type=text name="n3" id="n3"/><br><br><br><br>
+enter sallary1:<input type=text name="s1" id="s1"/><br><br>
+enter sallary2:<input type=text name="s2" id="s2"/><br><br>
+enter sallary3:<input type=text name="s3" id="s3"/><br><br><br><br>
+enter designation1:<input type=text name="d1" id="d1"/><br><br>
+enter designation2:<input type=text name="d2" id="d2"/><br><br>
+enter designation3:<input type=text name="d3" id="d3"/><br><br><br><br>
+<input type=button value="click" onclick="display()"/><br><br>
+
+empname&nbsp;:ABC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bonus&nbsp;:5000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total sal1:<span id="t1"></span><br><br>
+empname&nbsp;:DEF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bonus&nbsp;:2000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total sal2:<span id="t2"></span><br><br>
+empname&nbsp;:GHI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bonus&nbsp;:1000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total sal3:<span id="t3"></span><br><br>
+</form>
+</html>
