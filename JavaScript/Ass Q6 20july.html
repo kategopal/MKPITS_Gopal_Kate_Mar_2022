@@ -1,0 +1,23 @@
+<html>
+<script>
+function display()
+{
+var age=parseInt(document.getElementById("ag").value);
+if(age<18)
+{
+var r1=document.getElementById("g1");
+r1.innerText="not eligible for vote";
+}
+else if(age>18)
+{
+var r2=document.getElementById("g1");
+r2.innerText=" eligible for vote";
+}
+}
+</script>
+<form>
+enter age:<input type=text name="ag" id="ag"/><br><br>
+<input type=button value="click" onclick="display()"/><br><br>
+person is:<span id="g1"></span><br><br>
+</form>
+</html>
