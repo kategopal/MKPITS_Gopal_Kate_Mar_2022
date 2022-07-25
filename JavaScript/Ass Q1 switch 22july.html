@@ -1,0 +1,49 @@
+<html>
+<script>
+function display()
+{
+var ch=document.getElementById("c1").value;
+var result;
+switch(ch)
+{
+case 'a' :
+result="it is vowel";
+break;
+case 'e':
+result="it is vowel";
+break;
+case 'i':
+result="it is vowel";
+break;
+case 'o':
+result="it is vowel";
+break;
+case 'u':
+result="it is vowel";
+break;
+default:
+result="invalid";
+break;
+}
+var r1=document.getElementById("g1");
+r1.innerText=result;
+}
+</script>
+<body>
+<h1 align=center>mkpits solution</h1>
+<hr>
+
+<center>
+<form style="width:50%;">
+<fieldset>
+<legent>vowels</legend>
+<br>
+enter character:<input type="text" id="c1"/><br><br>
+<input type="button" value="result" onclick="display();"/><br><br>
+reult:&nbsp<span id="g1"></span><br><br>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
+
