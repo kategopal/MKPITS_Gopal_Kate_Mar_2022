@@ -1,0 +1,34 @@
+<html>
+    <script>
+        function display()
+        {
+            var num=parseInt(document.getElementById("n1").value);
+            var i;
+            var count=0;
+            for(i=1;i<=num;i++)
+            {
+            if(num%)
+            {
+                count=count+1;
+            }
+            }
+            if(count==2)
+            {
+                var r1=document.getElementById("g1");
+                r1.innerText="prime number";
+            }
+            else
+            {
+                var r1=document.getElementById("g1");
+                r1.innerText="not prime number";
+            }
+        }
+    </script>
+    <body>
+        <fieldset>
+            enter number:<input type="text" id="n1"/><br><br>
+            <input type="button" value="result" onclick="display()" ><br><br>
+            result: <span id="g1"></span> <br><br>
+        </fieldset>
+    </body>
+</html>
