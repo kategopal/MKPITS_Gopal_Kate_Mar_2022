@@ -1,0 +1,36 @@
+<html>
+<script>
+function display()
+{
+var uname=document.getElementById("u").value;
+var pass=document.getElementById("p").value;
+
+if(uname=='admin' && pass=='admin')
+{
+var r3=document.getElementById("g1");
+r3.innerHTML="login successful";
+}
+else
+{
+var r3=document.getElementById("g1");
+r3.innerHTML="invalid";
+}
+}
+</script>
+<body>
+<h1 align=center>mkpits solution</h1>
+<hr>
+<center>
+<form style="width:50%;">
+<fieldset>
+<legend>login form</legend>
+<br>
+Username:<input type="text" id="u"/><span style="color:red;">*</span><br><br>
+Password:<input type="password" id="p"/><span style="color:red;">*</span><br><br>
+<input type="button" value="login" onclick="display()"/><br><br>
+status:<span id="g1"></span><br><br>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
