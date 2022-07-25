@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>prime number 1-100</title>
+
+    <script>
+        function dis()
+        {
+        // var num=parseInt(document.getElementById("n1").value);
+         var i;
+         var j;
+         for(i=1;i<=100;i++)
+      {
+             var cnt=0;
+            for(j=1;j<=i;j++)
+            {
+             if(i%j==0)
+             {
+                 cnt++;
+             }
+            }
+        
+         if(cnt==2)
+         {
+            // alert(i);
+            var r1= document.getElementById("g1");
+            r1.innerHTML+=i+"<br>";
+ //       document.getElementById("g1").innerHTML+=i+ "<br>";
+         } 
+        }
+    }
+     
+ </script>
+</head>
+<body>
+    <h3>Prime numbers</h3>
+    <input type="button" value="click" onclick="dis();"><br><br>
+    <span id="g1"></span>
+    
+
+</body>
+</html>
