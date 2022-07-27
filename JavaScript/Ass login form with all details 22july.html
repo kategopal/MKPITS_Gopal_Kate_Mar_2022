@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login form with all details</title>
+    <script>
+        function display()
+        {
+            var uname=document.getElementById("u").value;
+            var pass=document.getElementById("p").value;
+            var gen=document.f1.gender.value;
+            var hob=document.getElementById("g").value;
+            var cit=document.getElementById("c").value;
+          //var gen=document.getElementById("g").value;
+            var r1=document.getElementById("g1");
+            r1.innerText=uname;
+            var r1=document.getElementById("g2");
+            r1.innerText=pass;
+            var r1=document.getElementById("g3");
+            r1.innerText=gen;
+            var r1=document.getElementById("g4");
+            r1.innerText=hob;
+            var r1=document.getElementById("g5");
+            r1.innerText=cit;
+        }
+    </script>
+</head>
+<body>
+    <h1 align="center">mkpits solution</h1>
+    <hr>
+    <center>
+    <form style="width:50%;" name="f1" >
+    <fieldset>
+        <legend>login form</legend>
+        enter username:<input type="text" id="u"/><span style="color:red">*</span><br><br>
+        enter password:<input type="password" id="p"/><span style="color:red">*</span><br><br>
+        gender: <input type="radio" value="male" name="gender">Male
+        <input type="radio" value="female" name="gender">Female <br><br>
+        hobby:<input type="checkbox" value="singing" id="g" checked/>singing
+        <input type="checkbox" value="reading" id="g"/>reading <br><br>
+        <select id="c">
+            <option>nagpur</option>
+            <option>mumbai</option>
+            <option>pune</option>
+        </select><br><br>
+        <input type="button" value="signup" onclick="display()"><br><br>
+        userdetails:<br><br>username:<span id="g1"></span><br>
+        password:<span id="g2"></span><br>
+        gender:<span id="g3"></span><br>
+        hobby:<span id="g4"></span><br>
+        city:<span id="g5"></span><br>
+    </fieldset>
+    </form>
+</center>
+</body>
+</html>
