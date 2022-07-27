@@ -1,0 +1,47 @@
+<html>
+<script>
+function display()
+{
+var gra=document.getElementById("gr").value;
+var result;
+switch(gra)
+{
+case 'A' :
+result="grade A";
+break;
+case'B':
+result="grade B";
+break;
+case'C':
+result="grade C";
+break;
+default:
+result="invalid";
+break;
+}
+var r1=document.getElementById("g1");
+r1.innerText=result;
+}
+</script>
+
+<head>
+<h1 align=center>Mkpits Solution</h1>
+<hr>
+<br>
+<center>
+<form style="width:50%">
+</head>
+<body>
+<fieldset>
+<legend>calculation</legend>
+enter grade:<input type="text" name="gr" id="gr"/><br><br>
+<input type="button" value="result" onclick="display();"/><br><br>
+result:<span id="g1"></span><br><br>
+</form>
+</fieldset>
+</center>
+</body>
+
+
+
+
