@@ -1,0 +1,32 @@
+<html>
+<script>
+function display()
+{
+var num=parseInt(document.getElementById("n1").value);
+
+var i;
+for(i=1;i<=10;i++)
+{
+var result=num*i;
+var r1=document.getElementById("g1");
+r1.innerText+=num + "*" + i + "= " + result;
+r1.innerHTML +="<br>";
+}
+}
+</script>
+<body>
+<h1 align=center>Mkpits Solution</h1>
+<hr>
+<br>
+<center>
+<form style="width:50%">
+<fieldset>
+<legend>Calculation</legend><br><br>
+enter number:<input type="text" name="n1" id="n1"/><br><br>
+<input type="button" value="result" onclick="display()"/><br><br>
+<span id="g1"></span><br><br>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
