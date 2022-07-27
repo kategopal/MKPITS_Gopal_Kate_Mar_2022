@@ -1,0 +1,35 @@
+<html>
+<script>
+function display()
+{
+var gra=document.getElementById("t1").value;
+var result;
+
+switch(gra)
+{
+case 'A':
+result="Grade A";
+break;
+case 'B':
+result="Grade B";
+break;
+
+case 'C':
+result="Grade C";
+break;
+ 
+default:
+result="No Grade";
+}
+var r1=document.getElementById("r");
+r1.innerText=result;
+}
+</script>
+<form>
+enter grade:<input type="text" name="t1" id="t1"/><br><br>
+<input type="button" value="grade" onclick="display()"/><br><br>
+result:<span id="r"></span><br><br>
+</form>
+</html>
+ 
+
