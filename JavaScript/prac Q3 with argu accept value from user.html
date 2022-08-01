@@ -1,0 +1,28 @@
+
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>example of accepting value from the user and passing to function</title>
+    <script>
+        function display(num)
+        {
+        
+            var result=num*num;
+            var r1=document.getElementById("g1");
+            r1.innerText=result;
+        }
+
+    </script>
+   </head>
+   <body>
+    <p>example of accepting value from the user and passing to function</p>
+    <form name="f1">
+    enter value from user:<input type="text" name="t1"/><br><br>
+    <input type="button" value="click" onclick="display(document.f1.t1.value);"/><br><br>
+    result:<span id="g1"></span><br>
+    </form>
+   </body>
+   </html>
