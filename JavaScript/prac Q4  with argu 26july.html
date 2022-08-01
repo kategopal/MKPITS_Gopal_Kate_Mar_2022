@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>With Argument</title>
+    <script>
+        function getresult(m1,m2,m3)
+        {
+            var total=parseInt(m1)+parseInt(m2)+parseInt(m3);
+            var per=(total/300)*100;
+            var r1=document.getElementById("g1");
+            r1.innerText=total;
+            var r2=document.getElementById("g2");
+            r2.innerText=per;
+        }
+    </script>
+</head>
+<body>
+    <p>example of accepting value from the user and passing to function</p>
+    <form name="f1">
+        enter sub1 marks:<input type="text" name="t1"/><br><br>
+        enter sub2 marks:<input type="text" name="t2"/><br><br>
+        enter sub3 marks:<input type="text" name="t3"/><br><br>
+        <input type="button" value="result" onclick="getresult(document.f1.t1.value,document.f1.t2.value,document.f1.t3.value);"><br><br>
+        Total:<span id="g1"></span><br><br>
+        percentage:<span id="g2"></span><br><br>
+    </form>
+    
+</body>
+</html>
