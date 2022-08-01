@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>With Argument </title>
+    <script>
+        function display(num)
+        {
+            var result=num*num;
+           var r1=document.getElementById("t1");
+           r1.innerText=result;
+        }
+    </script>
+   
+</head>
+<body>
+    <form>
+    <input type="button" onclick="display(4);" value="call function"/> <br><br>
+    result:<span id="t1"></span>
+</form>
+</body>
+</html>
