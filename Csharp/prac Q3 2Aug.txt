@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q3_Accept_3_sub_and_print_total_per_grade_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int s1, s2, s3;
+            Console.WriteLine("Enter s1 marks=");
+            s1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter s2 marks=");
+            s2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter s3 Marks=");
+            s3 = Convert.ToInt32(Console.ReadLine());
+            int total = s1 + s2 + s3;
+            Console.WriteLine("Total Marks=" + total);
+            float per = (total / 300.0f) * 100.0f;
+            Console.WriteLine("percentage=" + per);
+            if(per>=75)
+            {
+                Console.WriteLine("Distintion");
+            }
+            else if(per>60 && per<65)
+            {
+                Console.WriteLine("first class");
+            }
+            else if(per>50 && per<60)
+            {
+                Console.WriteLine("second class");
+            }
+            else
+            {
+                Console.WriteLine("fail");
+            }
+        }
+    }
+}
