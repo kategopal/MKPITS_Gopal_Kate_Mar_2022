@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q1_create_array_4Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] name = new string[5];
+            for(int i = 0; i <5; i++)
+            {
+                Console.WriteLine("enter name=");
+                name[i] =Console.ReadLine();
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("name [ {0} ] = {1}", i, name[i]);
+            }
+        }
+    }
+}
