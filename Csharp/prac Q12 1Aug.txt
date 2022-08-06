@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q12_Accept_No_and_print_it_by_using_lon_datatype
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            long num;
+            Console.WriteLine("enter long number ");
+            num = Convert.ToInt64(Console.ReadLine());
+            Console.WriteLine("long entered = " + num);
+            Console.ReadLine();
+        }
+    }
+}
