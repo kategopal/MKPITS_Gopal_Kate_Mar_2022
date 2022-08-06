@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q10_Accet_No_By_using_Short_datatype
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            short num;
+            Console.WriteLine("Enter Number=");
+            num = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Entered Number="+num);
+        }
+    }
+}
