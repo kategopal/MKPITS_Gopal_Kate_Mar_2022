@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q13_print_EVEN_or_ODD_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            Console.WriteLine("Enter Number=");
+            num = Convert.ToInt32(Console.ReadLine());
+            if(num%2==0)
+            {
+                Console.WriteLine("it is Even Number");
+            }
+            else
+            {
+                Console.WriteLine("it is Odd Number");
+            }
+        }
+    }
+}
+ 
