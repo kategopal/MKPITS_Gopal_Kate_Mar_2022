@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q9_to_calte_total_amount_of_product_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string pname;
+            int pqty;
+            float prate,tamount;
+            Console.WriteLine("Enter product name=");
+            pname = Console.ReadLine();
+            Console.WriteLine("Enter product rate=");
+            prate = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Enter product quantity=");
+            pqty = Convert.ToInt32(Console.ReadLine());
+            tamount = prate * pqty;
+            Console.WriteLine("Total amount of Product=" + tamount);
+        }
+    }
+}
