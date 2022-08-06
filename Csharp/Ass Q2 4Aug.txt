@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q2_create_an_2D_Array_4Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            int[,] num = new int[3, 3];
+            Console.WriteLine("enter array 1 elements");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    
+                    num[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("");
+            int[,] num1 = new int[3, 3];
+            Console.WriteLine("enter array2 element");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    
+                    num1[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+
+            int[,] num2 = new int[3, 3];
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    num2[i, j] = num[i, j] + num1[i, j];
+                
+                }
+                Console.WriteLine("");
+
+            }
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                   
+                    Console.Write(num2[i, j] + "\t");
+                }
+                Console.WriteLine("");
+
+            }
+
+        }
+    }
+}
