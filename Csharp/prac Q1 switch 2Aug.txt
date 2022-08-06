@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q1_switch_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num1, num2,res=0;
+            char op;
+            Console.WriteLine("Enter Number1=");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Number2=");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Operator=");
+            op = Convert.ToChar(Console.ReadLine());
+
+            switch(op)
+            {
+                case '+':
+                    {
+                        res = num1 + num2;
+                        break;
+                    }
+                case '-':
+                    {
+                        res = num1 - num2;
+                        break;
+                    }
+                case '*':
+                    {
+                        res = num1 * num2;
+                        break;
+                    }
+                default:
+                    Console.WriteLine("invalid operator");
+                    break;
+            }
+            Console.WriteLine("Result=" + res);
+
+
+
+        }
+    }
+}
