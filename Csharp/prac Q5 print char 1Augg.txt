@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q5_Accept_character_from_user_and_print_it
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char ch;
+            Console.WriteLine("Enter character");
+            ch = Convert.ToChar(Console.ReadLine());
+            Console.WriteLine("Entered character=" + ch);
+        }
+    }
+}
