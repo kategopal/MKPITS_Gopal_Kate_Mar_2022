@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//6- create a class cirlce having fields radius and method calculatearea and calculatecirc
+namespace Ass_Q6_class_5Aug
+{
+    public class circle
+    {
+        public int radius;
+        public double res;
+
+        public void calculatearea()
+        {
+            res = 3.142 * radius;
+            Console.WriteLine("result="+res);
+        }
+
+
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            circle obj = new circle();
+            obj.radius = 4;
+            obj.calculatearea();
+        }
+    }
+}
