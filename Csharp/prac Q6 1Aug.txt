@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q6_Accept_No_and_print_it
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            Console.WriteLine("Enter number");
+            num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Entered Number is=" + num);
+        }
+    }
+}
