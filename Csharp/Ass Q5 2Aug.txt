@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q8_WAP_to_calte_bonus_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string empname, des;
+            float bonus = 0;
+            Console.WriteLine("Enter Employ Name=");
+            empname = Console.ReadLine();
+            Console.WriteLine("Enter Designation=");
+            des = Console.ReadLine();
+           if(des=="manager")
+            {
+                Console.WriteLine("bonus=10000");
+            }
+           else if(des=="clerk")
+            {
+                Console.WriteLine("bonus=5000");
+            }
+           else if(des=="peon")
+            {
+                Console.WriteLine("bonus=2000");
+            }
+        }
+    }
+}
