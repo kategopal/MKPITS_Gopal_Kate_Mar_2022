@@ -1,0 +1,23 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q1_call_by_value_4_Aug
+{
+    internal class Program
+    {
+        static void display(int num)
+        {
+            num++;
+            Console.WriteLine("result="+num);
+        }
+        static void Main(string[] args)
+        {
+            int num = 5;
+            Console.WriteLine("result="+num);
+        }
+    }
+}
