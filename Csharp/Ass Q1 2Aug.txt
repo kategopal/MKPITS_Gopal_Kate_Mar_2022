@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q1_accept_2_No_and_print_greatest_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num1, num2;
+            Console.WriteLine("Enter num1=");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Num2=");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            if(num1>num2)
+            {
+                Console.WriteLine("Num1 is greatest");
+            }
+            else
+            {
+                Console.WriteLine("Num2 is greatest");
+            }
+        }
+    }
+}
