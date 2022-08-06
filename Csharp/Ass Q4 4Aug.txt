@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q4_print_table_4Aug
+{
+    internal class Program
+    {
+        static void display()
+        {
+            int num,res;
+            Console.WriteLine("Eneter Number=");
+            num=Convert.ToInt32(Console.ReadLine());
+            for(int i = 1; i <=10; i++)
+            {
+                res = num * i;
+                Console.WriteLine(num+"*"+i+"="+res);
+            }
+           
+        }
+        static void Main(string[] args)
+        {
+            display();
+        }
+    }
+}
