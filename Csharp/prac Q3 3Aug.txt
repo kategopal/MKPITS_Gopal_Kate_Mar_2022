@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q3_for_loop_print_NN_1_TO_10_3Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+            for(i=1;i<=10;i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+    }
+}
