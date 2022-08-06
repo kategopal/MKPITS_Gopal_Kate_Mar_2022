@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q11_print_vowel_or_not__2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char ch;
+            Console.WriteLine("Enter character=");
+            ch=Convert.ToChar(Console.ReadLine());
+            if(ch=='a')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if(ch=='e')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch=='i')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if(ch=='o')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if(ch=='u')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch == 'A')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch == 'E')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch == 'I')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch == 'O')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else if (ch == 'U')
+            {
+                Console.WriteLine("it is vowel");
+            }
+            else
+            {
+                Console.WriteLine("it is not vowel");
+            }
+        }
+    }
+}
