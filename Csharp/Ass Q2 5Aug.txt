@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//2- create a class customer having fields custno,custname,custaddress,custtelno and methods getcustomerdata and displaycustomerdata
+namespace Ass_Q2_5_Aug
+{
+    public class customer
+    {
+        public int custno;
+        public string custname;
+        public string custaddress;
+        public long custtelno;
+
+        public void getcustomerdata(int custno, string custname, string custaddress, long custtelno)
+            {
+            this.custno=custno;
+            this.custname=custname;
+            this.custaddress=custaddress;
+            this.custtelno=custtelno;
+            }
+    public void displaycustomerdata()
+        {
+        Console.WriteLine("customer No="+custno);
+            Console.WriteLine("customer Name="+custname);
+            Console.WriteLine("customer address="+custaddress);
+            Console.WriteLine("customer telno="+custtelno);
+        }
+    }
+    
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        customer obj = new customer();
+
+        Console.WriteLine("Enter cust no=");
+        int custno=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter cust name=");
+        string custname=Console.ReadLine();
+        Console.WriteLine("cust add=");
+        string custaddress=Console.ReadLine();
+        Console.WriteLine("Enter telno=");
+        long custtelno=Convert.ToInt64(Console.ReadLine());
+
+        obj.getcustomerdata(custno, custname, custaddress, custtelno);
+        obj.displaycustomerdata();
+        }
+    }
+}
