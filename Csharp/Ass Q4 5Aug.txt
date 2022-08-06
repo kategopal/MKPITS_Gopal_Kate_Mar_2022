@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//4- create a class car having fields make,model and method getcardata and displaycardata
+namespace Ass_Q4_class_5Aug
+{
+    public class car
+    {
+        string comname;
+        string model;
+
+        public void getcardata(string comname,string model)
+        {
+            this.comname = comname;
+            this.model = model;
+        }
+        public void displaycardata()
+        {
+            Console.WriteLine("company name=" + comname);
+            Console.WriteLine("model=" + model);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            car obj = new car();
+            Console.WriteLine("Enter company name=");
+            string comname = Console.ReadLine();
+            Console.WriteLine("Enter model=");
+            string model = Console.ReadLine();
+
+            obj.getcardata(comname,model);
+            obj.displaycardata();
+        }
+    }
+}
