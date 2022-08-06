@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q7_calte_hra_da_2_Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            float bsal,da,hra;
+            string name;
+            Console.WriteLine("Enter Employ No=");
+            num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Employ Name=");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter Employ basic sallery=");
+            bsal = Convert.ToSingle(Console.ReadLine());
+            hra = (32/100.0f)*bsal;
+            Console.WriteLine("hra=" + hra);
+             da = (45/100.0f)*bsal;
+            Console.WriteLine("da=" + da);
+
+        }
+    }
+}
