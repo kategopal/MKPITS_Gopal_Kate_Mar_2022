@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q1_switch_print_bonus_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string empname, des;
+            float bonus = 0;
+            Console.WriteLine("Enter Employ Name=");
+            empname = Console.ReadLine();
+            Console.WriteLine("Enter Designation=");
+            des = Console.ReadLine();
+            switch (des)
+            {
+                case "manager":
+                    {
+                        bonus = 10000;
+                        break;
+                    }
+                case "clerk":
+                    {
+                        bonus = 5000;
+                        break;
+                    }
+                case "peon":
+                    {
+                        bonus = 2000;
+                        break;
+                    }
+                default:
+                    Console.WriteLine("Invalid");
+                    break;
+            }
+            Console.WriteLine("Bonus=" + bonus);
+
+        }
+    }
+}
