@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q9_Accept_No_and_print_it_By_using_SByte
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            SByte num;
+            Console.WriteLine("Enter SByte");
+            num = Convert.ToSByte(Console.ReadLine());
+            Console.WriteLine("Number=" + num);
+        }
+    }
+}
