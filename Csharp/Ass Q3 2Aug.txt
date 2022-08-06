@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q6_Accept_3_No_and_print_smallest_2Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int num1, num2, num3;
+            Console.WriteLine("Enter Num1=");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Nun2=");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Num3=");
+            num3 = Convert.ToInt32(Console.ReadLine());
+            if (num1 < num2 && num1 < num3)
+            {
+                Console.WriteLine("Num1 is smallest");
+            }
+            else if (num2 < num1 && num2 < num3)
+            {
+                Console.WriteLine("Num2 is smallest");
+            }
+            else
+            {
+                Console.WriteLine("Num3 is smallest");
+            }
+        }  
+    }
+}
