@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//3- create a class product having fields prodid,prodname,prodrate , quantity and methods getproductdata and displayorder
+namespace Ass_Q3_class_5Aug
+{
+    public class product
+    {
+        public string prodid;
+        public string prodname;
+        public float prodrate;
+        public int qty;
+
+       public  void getproductdata(string prodid,string prodname,float prodrate,int qty)
+        {
+            this.prodid = prodid;
+            this.prodname = prodname;
+            this.prodrate = prodrate;
+            this.qty = qty;
+        }
+        public void displayorder()
+        {
+            Console.WriteLine("product id=" + prodid);
+            Console.WriteLine("product name=" + prodname);
+            Console.WriteLine("product rate=" + prodrate);
+            Console.WriteLine("product Qty=" + qty);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            product obj = new product();
+
+            Console.WriteLine("Enter product id=");
+            string prodid=Console.ReadLine();
+            Console.WriteLine("Enter product name=");
+            string prodname=Console.ReadLine();
+            Console.WriteLine("Enter product rate=");
+            float prodrate=Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Enter product Qty=");
+            int qty=Convert.ToInt32(Console.ReadLine());
+            obj.getproductdata(prodid, prodname, prodrate, qty);
+            obj.displayorder();
+
+
+        }
+    }
+}
