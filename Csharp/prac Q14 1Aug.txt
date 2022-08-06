@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q13_Accept_No_and_print_it_by_using_float_datatype
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            float num;
+            Console.WriteLine("enter float number ");
+            num = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("float entered = " + num);
+
+            Console.ReadLine();
+        }
+    }
+}
