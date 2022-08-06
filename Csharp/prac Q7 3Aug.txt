@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q7_foreach_print_string_3Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] num= new string[3];
+            num[0] = "raj";
+            num[1] = "rahul";
+            num[2] = "dilip";
+            foreach(string i in num)
+            {
+                Console.WriteLine(i);
+            }
+        }
+    }
+}
