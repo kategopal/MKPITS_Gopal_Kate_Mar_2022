@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q1_while_print_table_3Aug
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int num, res;
+            Console.WriteLine("Enter Number=");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            int i = 1;
+            while (i <= 10)
+            {
+                res = num * i;
+                Console.WriteLine(num + "*" + i + "=" + res);
+                i++;
+
+            }
+
+        }
+    }
+}
