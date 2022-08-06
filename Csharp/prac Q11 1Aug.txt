@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q11_Accept_No_and_print_it_By_using_short_datatype
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ushort num;
+            Console.WriteLine("enter ushort number ");
+            num = Convert.ToUInt16(Console.ReadLine());
+            Console.WriteLine("ushort entered = " + num);
+
+            Console.ReadLine();
+        }
+    }
+}
