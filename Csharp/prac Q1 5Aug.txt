@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q1_class_and_object_5Aug
+{
+    public class Employe
+    {
+        public int empno;
+        public string empname;
+        public float empsal;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employe obj = new Employe();
+            obj.empno = 1;
+            obj.empname = "gopal";
+            obj.empsal = 30000;
+
+            Console.WriteLine("Employe No=" + obj.empno);
+            Console.WriteLine("Employe Name=" + obj.empname);
+            Console.WriteLine("Employe Sallery=" + obj.empsal);
+        }
+    }
+}
