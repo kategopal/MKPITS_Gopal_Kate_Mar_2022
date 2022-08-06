@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//1- create a class customer having fields custno,custname,custaddress,custtelno
+namespace Ass_Q1_5Aug
+{
+    public class customer
+    {
+        public int custno;
+        public string custname;
+        public string custaddress;
+        public long custtelno;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            customer obj = new customer();
+            //By Using Constatnt//
+            // obj.custno = 1;
+            // obj.custname = "gopal";
+            //obj.custaddress="GMC,nagpur";
+            //obj.custtelno = 7775854730;
+
+            // Console.WriteLine("customer No=" + obj.custno);
+            //Console.WriteLine("customer name=" + obj.custname);
+            //Console.WriteLine("customer address=" + obj.custaddress);
+            //Console.WriteLine("customer No=" + obj.custtelno);//
+
+            //By Using dynamically//
+            Console.WriteLine("Enter customer number=");
+            obj.custno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter customer name=");
+            obj.custname = Console.ReadLine();
+            Console.WriteLine("Enter customer address=");
+            obj.custaddress = Console.ReadLine();
+            Console.WriteLine("Enter customer tel no=");
+            obj.custtelno = Convert.ToInt64(Console.ReadLine());
+
+            Console.WriteLine("cust no=" + obj.custno);
+            Console.WriteLine("cust name=" + obj.custname);
+            Console.WriteLine("cust address=" + obj.custaddress);
+            Console.WriteLine("cust tel no=" + obj.custtelno);
+        }
+    }
+}
