@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q3_create_a_class_having_fields_and_methods_4Aug
+{
+    public class Employe
+    {
+        public int empno;
+        public string empname;
+        public float empsal;
+
+        public void display()
+        {
+            Console.WriteLine("Enter Employe No=");
+            empno=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Employe Name=");
+            empname = Console.ReadLine();
+            Console.WriteLine("Enter Employe sallery=");
+            empsal = Convert.ToSingle(Console.ReadLine());
+        }
+        public void display1()
+        {
+            Console.WriteLine("Employe No="+empno);
+            Console.WriteLine("Employe Name=" + empname);
+            Console.WriteLine("Employe No=" + empsal);
+
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employe obj = new Employe();
+            obj.display();
+           obj. display1();
+        }
+    }
+}
