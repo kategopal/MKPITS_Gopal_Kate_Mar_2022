@@ -1,0 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q8_Accept_No_By_using_byte_dadatype
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            byte num;
+            Console.WriteLine("Enter Byte");
+            num=Convert.ToByte(Console.ReadLine());
+            Console.WriteLine("Entered Number="+num);
+        }
+    }
+}
