@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Q2_class_and_object_accept_by_user_5Aug
+{
+    public class Employe
+    {
+        public int empno;
+        public string empname;
+        public float empsal;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employe obj = new Employe();
+
+            Console.WriteLine("Enter Employe No=");
+           obj.empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Employe Name=");
+            obj.empname = Console.ReadLine();
+            Console.WriteLine("Enter Employe Sallery=");
+            obj.empsal= Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("");
+            Console.WriteLine("Enter Employe No=" + obj.empno);
+            Console.WriteLine("Enter Employe Name=" + obj.empname);
+            Console.WriteLine("Enter Employe Sallery=" + obj.empsal);
+        }
+    }
+}
