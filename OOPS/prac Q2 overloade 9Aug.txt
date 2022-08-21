@@ -1,0 +1,73 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q2_overloade_9Aug
+{
+    internal class Program
+    {
+       public class Book
+        {
+            int bookid;
+            string title;
+            string author;
+            int price;
+
+            public void getdata()
+            {
+                bookid = 1;
+                title = "java";
+                author = "abhi";
+                price = 120;
+            }
+            public void getdata(int bookid)
+            {
+                this.bookid = bookid;
+            }
+            public void getdata(int bookid,string title)
+            {
+                this.bookid=bookid;
+                this.title = title; 
+            }
+            public void getdata(int bookid, string title,string author)
+            {
+                this.bookid = bookid;
+                this.title = title;
+                this.author = author;
+            }
+            public void getdata(int bookid, string title, string author,int price)
+            {
+                this.bookid = bookid;
+                this.title = title;
+                this.author = author;
+                this.price = price;
+            }
+            public void display()
+            {
+                Console.WriteLine(bookid);
+                Console.WriteLine(title);
+                Console.WriteLine(author);
+                Console.WriteLine(price);
+               
+            }
+        }
+        static void Main(string[] args)
+        {
+            Book obj = new Book();
+            obj.getdata();
+            obj.display();
+            Book obj1=new Book();
+            obj1.getdata(111,"java");
+            obj1.display();
+            Book obj2 = new Book();
+            obj2.getdata(111, "java","abhi");
+            obj2.display();
+            Book obj3 = new Book();
+            obj1.getdata(111, "java","abhi",150);
+            obj1.display();
+            
+        }
+    }
+}
