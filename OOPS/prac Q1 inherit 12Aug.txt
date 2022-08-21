@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_inheritance_12Aug
+{
+    public class person
+    {
+        public int id;
+        public string name;
+        public int age;
+
+        public void getdata()
+        {
+            id = 7;
+            name = "Gopal";
+            age = 18;
+        }
+        public void display()
+        {
+            Console.WriteLine(id);
+            Console.WriteLine(name);
+            Console.WriteLine(age);
+        }
+    }
+        public class student:person
+        {
+            public string nam;
+            public int rno;
+            public int std;
+
+            public void getedatas()
+            {
+                nam = "abhi";
+                rno = 20;
+                std = 5;
+            }
+            public void displays()
+            {
+                Console.WriteLine(nam);
+                Console.WriteLine(rno);
+                Console.WriteLine(std);
+            }
+        }
+    
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj = new student();
+            {
+                obj.getdata(); 
+                obj.display();
+                obj.getedatas();
+                obj.displays();
+
+            }
+        }
+    }
+}
