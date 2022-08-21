@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_Base_keyword_for_Method_16Aug
+{
+    public class person
+    {
+        string name;
+
+        public void getdatap(string name)
+        {
+            this.name = name;
+        }
+        public void display()
+        {
+            Console.WriteLine(name);
+        }
+    }
+    public class student : person
+    {
+        string name;
+
+        public void getdatas(string name)
+        {
+            this.name = name;
+        }
+        public void display()
+        {
+            base.display();
+           
+            Console.WriteLine(name);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj = new student();
+            obj.getdatap("gopal");
+            obj.getdatas("abhi");
+            obj.display();
+            
+            
+        }
+    }
+}
