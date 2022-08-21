@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q2_create_a_constructor_with_no_parameters_9Aug
+{
+   public class Employee
+    {
+        int empno;
+        string empname;
+        string empdes;
+        long empsal;
+
+        public Employee()
+        {
+            empno = 1;
+            empname = "Gopal";
+            empdes = "manager";
+            empsal = 50000;
+        }
+
+        public void display()
+        {
+            Console.WriteLine("Employee No="+empno);
+            Console.WriteLine("Employee Name=" + empname);
+            Console.WriteLine("Employee Designation=" + empdes);
+            Console.WriteLine("Employee Sallery=" + empsal);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee obj=new Employee();
+            obj.display();
+        }
+    }
+}
