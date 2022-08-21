@@ -1,0 +1,69 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_multi_leve_inheritance_12Aug
+{
+    public class person
+
+    {
+        string pname;
+        string address;
+
+        public void getdatap(string pname, string address)
+        {
+            this.pname = pname;
+            this.address = address;
+        }
+        public void displayp()
+        {
+            Console.WriteLine(pname);
+            Console.WriteLine(address);
+        }
+    }
+    public class employee : person
+    {
+        int esal;
+        string des;
+
+        public void getdatae(int esal, string des)
+        {
+            this.esal = esal;
+            this.des = des;
+        }
+        public void displaye()
+        {
+            Console.WriteLine(esal);
+            Console.WriteLine(des);
+        }
+    }
+    public class parttimeemployee : employee
+    {
+        int hrs;
+
+        public void getdatape(int hrs)
+        {
+            this.hrs = hrs;
+        }
+        public void displaype()
+        {
+            Console.WriteLine(hrs);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            parttimeemployee obj = new parttimeemployee();
+
+            obj.getdatap("gopal", "chitness nagar");
+            obj.displayp();
+            obj.getdatae(1000, "manager");
+            obj.displaye();
+            obj.getdatape(10);
+            obj.displaype();
+        }
+    }
+}
