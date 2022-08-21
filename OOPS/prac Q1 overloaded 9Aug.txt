@@ -1,0 +1,65 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_overloaded_9Aug
+{
+    //-create a class book having member variables bookid , title, author, and price
+    public class Book
+    {
+        int bookid;
+        string title;
+        string author;
+        int price;
+
+        public void getdata()
+        {
+            bookid = 5;
+            title = "java";
+            author = "abhi";
+            price = 150;
+        }
+        public void getdata(int bookid, String title, String author, int price)
+        {
+            this.bookid = bookid;
+            this.title = title;
+            this.author = author;
+            this.price = price;
+        }
+        public void display()
+        {
+            Console.WriteLine("bookid="+bookid);
+            Console.WriteLine("title=" + title);
+            Console.WriteLine("author=" + author);
+            Console.WriteLine("price=" + price);
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Book obj=new Book();
+            obj.getdata();
+            obj.getdata();
+            Book obj1 = new Book();
+            obj1.getdata(5,"java","abhi",150);
+            obj1.display();
+            Console.WriteLine("Enter Book Id=");
+            int bookid= Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter title=");
+            string title = Console.ReadLine();
+            Console.WriteLine("Enter author=");
+            string author = Console.ReadLine();
+            Console.WriteLine("Enter Book price=");
+            int price = Convert.ToInt32(Console.ReadLine());
+            Book obj2 = new Book(); 
+            obj2.getdata(bookid,title, author, price);
+            obj2.display();
+
+
+        }
+    }
+}
