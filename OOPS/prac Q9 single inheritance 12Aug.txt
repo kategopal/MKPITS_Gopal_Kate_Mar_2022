@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+//another example of protected
+namespace prac_Q9_single_inheritance_12Aug
+{
+    internal class Program
+    {
+        class person
+
+        {
+            string name;
+            protected void getpersondata(string name)
+            {
+                this.name = name;
+                Console.WriteLine("name " + name);
+            }
+        }
+        class employee : person
+        {
+            int empno;
+            internal void getemployeedata(int empno, string name)
+            {
+                getpersondata(name);//calling base class method
+                this.empno = empno;
+                Console.WriteLine("empno " + empno);
+            }
+        }
+        static void Main(string[] args)
+        {
+            employee emp = new employee();
+            emp.getemployeedata(333, "ravina");
+        }
+    }
+}
