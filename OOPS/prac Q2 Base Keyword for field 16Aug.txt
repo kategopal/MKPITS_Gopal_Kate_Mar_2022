@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q2_Base_keyword_for_field_16Aug
+{
+    public class person
+    {
+        public string name;
+        public int age;
+
+        public void getdatap(string name,int age)
+        {
+            this.name = name;
+            this.age = age;
+        }
+        public void displayp()
+        {
+            Console.WriteLine("Name of Person=" +name);
+            Console.WriteLine("Person Age=" +age);
+        }
+    }
+    public class student:person
+    {
+        public string name;
+        public int age;
+        public void getdatas(string name, int age)
+        {
+           this.name=name;
+            this.age = age;
+        }
+        public void displays()
+        {
+            Console.WriteLine(base.name);
+            Console.WriteLine(base.age);
+            Console.WriteLine("Name of student=" + name);
+            Console.WriteLine(" student Age=" + age);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj = new student();
+            obj.getdatas("abhi",22);
+            obj.displays();
+            obj.getdatap("gopal",21);
+            obj.displayp();
+            
+        }
+    }
+}
