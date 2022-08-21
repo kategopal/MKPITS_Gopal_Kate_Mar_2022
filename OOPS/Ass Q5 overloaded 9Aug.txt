@@ -1,0 +1,81 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q5_overloaded_9Aug
+{
+    public class student
+    {
+        long mobile;
+        string name;
+        string course;
+        int fees;
+
+        public void getdata()
+        {
+          mobile = 7775854730;
+            name = "gopal";
+            course = "java";
+            fees = 4000;
+
+        }
+        public void getdata(long mobile)
+        {
+            this.mobile = mobile;
+        }
+        public void getdata(long mobile,string name )
+        {
+            this.mobile = mobile;
+            this.name = name;
+        }
+        public void getdata(long mobile, string name,string course)
+        {
+            this.mobile = mobile;
+            this.name = name;
+            this.course = course;
+        }
+        public void getdata(long mobile, string name, string course,int fees)
+        {
+            this.mobile = mobile;
+            this.name = name;
+            this.course = course;
+            this.fees = fees;
+        }
+        public void display()
+        {
+            Console.WriteLine("mobile No=" + mobile);
+            Console.WriteLine("Name=" + name);
+            Console.WriteLine("course=" + course);
+            Console.WriteLine("fees=" + fees);
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj = new student();
+            obj.getdata();
+            obj.display();
+            Console.WriteLine("");
+            student obj2 = new student();
+            obj2.getdata(7775854730);
+            obj2.display();
+            Console.WriteLine("");
+            student obj3 = new student();
+            obj3.getdata(7775854730,"gopal");
+            obj3.display();
+            Console.WriteLine("");
+            student obj4 = new student();
+            obj3.getdata(7775854730, "gopal","dotnet");
+            obj3.display();
+            Console.WriteLine("");
+            student obj5 = new student();
+            obj3.getdata(7775854730, "gopal", "dotnet",5000);
+            obj3.display();
+        }
+    }
+    
+}
