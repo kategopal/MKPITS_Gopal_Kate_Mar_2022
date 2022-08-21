@@ -1,0 +1,63 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q4_accept_by_user_9Aug
+{
+    public class Book
+    {
+        int bookid;// this is field
+        string title;// this is field
+        string author;// this is field
+        int price;// this is field
+        public Book()//constructor without argument
+        {
+            Console.WriteLine("without argument");
+            bookid = 1;
+            title = "java";
+            author = "gopal";
+            price = 150;
+            Console.WriteLine("");
+        }
+        public Book(int bookid, string title, string author, int price)//constructor with argument
+        {
+            Console.WriteLine("with argument");
+            this.bookid = bookid;
+            this.title = title;
+            this.author = author;
+            this.price = price;
+            
+        }
+        public void display()//this is method
+        {
+            Console.WriteLine("bookid=" + bookid);
+            Console.WriteLine("title="+title);
+            Console.WriteLine("author=" + author);
+            Console.WriteLine("price="+price);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Book obj = new Book();
+            obj.display();
+            Book obj1=new Book(4,"java","abhijeet",150);
+            obj1.display();
+            Console.WriteLine("");
+            Console.WriteLine("Accepting value By user");
+            Console.WriteLine("Enter BookId=");
+            int bookid=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter title=");
+            string title =Console.ReadLine();
+            Console.WriteLine("Enter Author=");
+            string author = Console.ReadLine();
+            Console.WriteLine("Enter price=");
+            int price = Convert.ToInt32(Console.ReadLine());
+            Book obj2=new Book(bookid,title,author,price);
+            obj2.display();
+        }
+    }
+}
