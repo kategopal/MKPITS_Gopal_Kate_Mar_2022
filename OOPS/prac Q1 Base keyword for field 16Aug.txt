@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_Base_keyword_for_field_16Aug
+{
+    public class animal
+    {
+        public string color;
+
+        public void getdataa(string color)
+        {
+            this.color = color;
+        }
+        public void displaya()
+        {
+
+            Console.WriteLine("color of Animal=" + color);
+        }
+    }
+        public class dog:animal
+        {
+        public string color;
+            public void getedatad(string color)
+            {
+                this.color=color;
+            }
+            public void displayd()
+            {
+               Console.WriteLine(base.color);
+                Console.WriteLine("color of dog=" + color);
+            }
+        }
+   
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            dog obj=new dog();
+            obj.getedatad("black");
+            obj.displayd();
+            obj.getdataa("green");
+            obj.displaya();
+        }
+    }
+}
