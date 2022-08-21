@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_a_constructor_with_no_parameters_9Aug
+{//1- create a class book having member variables bookid , title, author, and price  and a constructor with no parameters and method display.
+    public class book
+    {
+       public int  bookid;
+        public string title;
+        public string author;
+        public int price;
+        //creating constructor without No parameter
+
+        public book()
+        {
+            bookid = 1;
+            title = "Csharp";
+            author = "xyz";
+            price = 120;
+        }
+        public void display()
+        {
+            Console.WriteLine("bookid="+bookid);
+            Console.WriteLine("title="+title);
+            Console.WriteLine("Author=" +author);
+            Console.WriteLine("Price=" + price);
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            book obj = new book();
+            obj.display();
+        }
+    }
+}
