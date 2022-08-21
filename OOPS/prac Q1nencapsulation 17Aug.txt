@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_Encapuslation_17Aug
+{
+    class employee
+    {
+        // string empname;
+        public string empname { get; set; }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            employee emp = new employee();
+            emp.empname = "ravi"; //this will call setter
+            Console.WriteLine("empname " + emp.empname);
+        }
+    }
+}
