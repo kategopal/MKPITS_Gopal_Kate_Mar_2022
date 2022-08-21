@@ -1,0 +1,53 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q3_polymorphisum_override_16Aug
+{
+    public class account
+    {
+        int actno;
+        int bal;
+
+        public void getdata(int actno,int bal)
+        {
+            this.actno = actno;
+            this.bal = bal;
+        }
+        public virtual void  display()
+        {
+            Console.WriteLine("Account No="+actno);
+            Console.WriteLine("Balance="+bal);
+        }
+    }
+    public class current:account
+    {
+        public int actno;
+        public int bal;
+
+        public void getdatc(int actno, int bal)
+        {
+            this.actno = actno;
+            this.bal = bal;
+        }
+        public override void display()
+        {
+            Console.WriteLine("Account No=" + actno);
+            Console.WriteLine("Balance=" + bal);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            current obj=new current();
+            obj.getdatc(12345, 1000);
+            obj.display();
+            account obj1 = new account();
+            obj1.getdata(123456, 10000);
+            obj1.display();
+        }
+    }
+}
