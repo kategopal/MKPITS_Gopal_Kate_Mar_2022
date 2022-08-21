@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q3_Accept_By_user_9Aug
+{
+   public class Book
+    {
+        int bookid;
+        string title;
+        string author;
+        int price;
+
+        public Book(int bookid,string title,string author,int price)
+        {
+            this.bookid = bookid;
+            this.title = title;
+            this.author = author;
+            this.price = price;
+        }
+        public void display()
+        {
+            Console.WriteLine("BookId=" + bookid);
+            Console.WriteLine("Book Title=" +title);
+            Console.WriteLine("BookAuthor=" + author);
+            Console.WriteLine("Book Price=" + price);
+
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+            Console.WriteLine("Enter bookid=");
+            int bookid=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter title=");
+            string title =Console.ReadLine();
+            Console.WriteLine("Enter author=");
+            string author = Console.ReadLine();
+            Console.WriteLine("Enter book price=");
+            int price = Convert.ToInt32(Console.ReadLine());
+            Book obj = new Book(bookid, title, author, price);
+            obj.display();
+        }
+    }
+}
