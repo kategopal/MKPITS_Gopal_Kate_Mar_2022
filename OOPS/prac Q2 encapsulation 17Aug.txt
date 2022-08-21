@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q2_Encapsulation_17Aug
+{
+    class student
+    {
+        int id=10;
+        string snmae="Abhijeet";
+        string email="Abhijeet@123";
+
+        public void setdata(int id ,string name, string email)
+        {
+            if(id<=0)//this is the main concept of encapsulation to print +ve value
+            {
+                Console.WriteLine("Student Id sould not be -ve");
+            }
+            else
+            { 
+            this.id = id;
+            this.snmae = name;
+            this.email = email;
+            }
+        }
+
+        public void getshowdata()
+        {
+            Console.WriteLine("Student Id="+id);
+            Console.WriteLine("Student name=" + snmae);
+            Console.WriteLine("Student Email=" + email);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj = new student();
+            obj.setdata(-2,"Gopal","kategopal111@gmail.com");
+            obj.getshowdata();
+
+        }
+    }
+}
