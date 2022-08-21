@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q1_Encapsulation_17Aug
+{
+    class Employee
+    {
+        string empname;
+
+        public void setdata(string empname)
+
+        {
+            this.empname = empname;
+        }
+        public void getshowdata()
+        {
+            Console.WriteLine("Employee Name="+empname);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee obj = new Employee();
+            obj.setdata("Gopal");
+            obj.getshowdata();
+        }
+    }
+}
