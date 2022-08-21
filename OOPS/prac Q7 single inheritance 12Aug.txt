@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q7_single_inheritance_12Aug
+{
+    public class person
+    {
+        string name;
+        string add;
+
+        protected void getdata(string name,string add)
+        {
+            this.name = name;
+            this.add = add;
+        }
+        protected void display()
+        {
+            Console.WriteLine(name);
+            Console.WriteLine(add);
+        }
+    }
+   public class student:person
+    {
+        int rno;
+        int marks;
+
+        public void getdatas(int rno,int marks)
+        {
+            getdata("dhanu", "ram nagar");
+
+            this.rno = rno;
+            this.marks = marks;
+        }
+        public void displays()
+        {
+            display();
+            Console.WriteLine(rno);
+            Console.WriteLine(marks);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student obj=new student();
+            //obj.getdata("gopal", "citness nagar");
+            //obj.display();
+            obj.getdatas(13, 79);
+            obj.displays();
+        }
+    }
+}
