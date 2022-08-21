@@ -1,0 +1,65 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q2_polymorphism_16Aug
+{
+    public class shape
+    {
+        string name;
+
+        public void getdatas(string name)
+        {
+            this.name = name;
+        }
+        public virtual void display()
+        {
+            Console.WriteLine("name="+name);
+        }
+    }
+    public class rectangle:shape
+    {
+        string name;
+
+        public void getdatar(string name)
+        {
+            this.name = name;
+        }
+        public override void display()
+        {
+
+            Console.WriteLine("name=" + name);
+        }
+    }
+    public class circle:shape
+    {
+        public string name;
+
+        public void getdatac(string name)
+        {
+            this.name = name;
+        }
+        public override void display()
+        {
+            Console.WriteLine("name=" + name);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            circle obj=new circle();
+            obj.getdatac("circle");
+            obj.display();
+            rectangle obj1=new rectangle();
+            obj1.getdatar("rectangular");
+            obj1.display();
+            shape obj2 = new shape();
+            obj2.getdatas("shape");
+            obj2.display();
+
+        }
+    }
+}
