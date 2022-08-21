@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac__Q1_Runtime_Polymorphism_17Aug
+{
+    public class animal//Base class 
+    {
+       
+        string name;
+        int no;
+
+        public void getdataa(string name, int no)//this is method
+        {
+            this.name = name;
+            this.no = no;
+            Console.WriteLine("----------------Base class Data----------------------");
+        }
+        public virtual void display()//method
+        {
+            Console.WriteLine("Name of Animal="+name);
+            Console.WriteLine("Total number of Animals="+no);
+            Console.WriteLine("----------------Derive class Data----------------------");
+        }
+
+    }
+    public class dog:animal//derived class
+    {
+        public string name;
+        public int no;
+
+        public void getdatad(string name, int no)
+        {
+            this.name=name;
+            this.no = no;
+        }
+        public override void display()
+        {
+         // base.display();//use of Base Keyword
+            Console.WriteLine("Nmae Of Dog="+name);
+            Console.WriteLine("Total No of Dog="+no);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            animal obj = new animal();
+            obj.getdataa("tiger", 5);
+            obj.display();
+            dog obj2 = new dog();
+            obj2.getdatad("german", 4);
+            obj2.display();
+            
+        }
+    }
+}
