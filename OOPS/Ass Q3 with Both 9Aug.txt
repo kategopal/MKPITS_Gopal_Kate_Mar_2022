@@ -1,0 +1,65 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q3_with_Both_9Aug
+{
+    public class Employee
+        //3 create a class employee having fields empno,empname , designation and salary create a constructor with no parameters and create another parameterized constructor with 4 parameters
+    {
+        int empno;
+        string empname;
+        string empdes;
+        long empsal;
+
+        public Employee()//constructor without argument
+        {
+            empno = 1;
+            empname = "gopal";
+            empdes = "manager";
+            empsal = 50000;
+        }
+        public Employee(int empno, string empname, string empdes, long empsal)//constructor with Argument
+        {
+            this.empno = empno;
+            this.empname = empname;
+            this.empdes = empdes;
+            this.empsal = empsal;
+        }
+        public void display()//this is Method
+        {
+            Console.WriteLine("Enter employe No="+empno);
+            Console.WriteLine("Enter employe Name="+empname);
+            Console.WriteLine("Enter employe Designation="+empdes);
+            Console.WriteLine("Enter employe Sallery="+empsal);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("without Argument");
+            Employee obj = new Employee();
+            obj.display();
+            Console.WriteLine("");
+            Console.WriteLine("with Argument");
+            Employee obj1 = new Employee(2, "abhi", "manager", 10000);
+            obj1.display();
+            Console.WriteLine("");
+            Console.WriteLine("Accept By user");
+            Console.WriteLine("Enter employe No=");
+            int empno = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter employe Name=");
+            string empname = Console.ReadLine();
+            Console.WriteLine("Enter employe designation=");
+            string empdes = Console.ReadLine();
+            Console.WriteLine("Enter employe Sallery=");
+            int empsal = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter employe No=");
+            Employee obj3 = new Employee(empno,empname,empdes,empsal);
+            obj3.display();
+        }
+    }
+}
