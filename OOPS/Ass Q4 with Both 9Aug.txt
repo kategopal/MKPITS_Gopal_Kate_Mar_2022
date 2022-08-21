@@ -1,0 +1,66 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ass_Q4_with_Both_9Aug
+{
+    //3 create a class employee having fields product no,productname , productprice and product Qty  create a constructor with no parameters and create another parameterized constructor with 4 parameters
+    public class product
+    {
+        int productid;
+        string productname;
+        int productprice;
+        int productqty;
+
+        public product()//without argument
+        {
+            productid = 1;
+            productname = "apple";
+            productprice = 30;
+            productqty = 4;
+        }
+        public product(int productid, string productname, int productprice, int productqty)//with Argment
+        {
+            this.productid = productid;
+            this.productname = productname;
+            this.productprice = productprice;
+            this.productqty = productqty;
+        }
+        public void display()//this is method
+        {
+            Console.WriteLine("product id=" + productid);
+            Console.WriteLine("product Name="+productname);
+            Console.WriteLine("product Price="+productprice);
+            Console.WriteLine("product Qty="+productqty);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("with argument");
+            product obj=new product();
+            obj.display();
+            Console.WriteLine("");
+            Console.WriteLine("with argument");
+            product obj2 = new product(2,"orange",50,5);
+            obj2.display();
+            Console.WriteLine("");
+            Console.WriteLine("Accept By User");
+            Console.WriteLine("Enter product id=");
+            int productid=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter product Name=");
+            string productname =Console.ReadLine();
+            Console.WriteLine("Enter product price=");
+            int productprice = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter product Qty=");
+            int productqty = Convert.ToInt32(Console.ReadLine());
+            product obj3=new product(productid,productname,productprice,productqty);
+            obj3.display();
+
+
+        }
+    }
+}
