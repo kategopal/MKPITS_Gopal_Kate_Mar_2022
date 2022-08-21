@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prac_Q2_Base_keyword_for_constructor_16Aug
+{
+    public class Animal
+    {
+        public Animal()
+        {
+            Console.WriteLine("animal...");
+        }
+    }
+    public class Dog : Animal
+    {
+        public Dog()
+        {
+            Console.WriteLine("dog...");
+        }
+        internal class Program
+    {
+        static void Main(string[] args)
+        {
+                Dog d = new Dog();
+
+            }
+        }
+    }
+}
