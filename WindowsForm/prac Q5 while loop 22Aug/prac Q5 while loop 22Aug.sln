@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac Q5 while loop 22Aug", "prac Q5 while loop 22Aug\prac Q5 while loop 22Aug.csproj", "{153D1D3A-983B-4230-B2F7-C816A6C2A6A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153D1D3A-983B-4230-B2F7-C816A6C2A6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D1D3A-983B-4230-B2F7-C816A6C2A6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D1D3A-983B-4230-B2F7-C816A6C2A6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D1D3A-983B-4230-B2F7-C816A6C2A6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86DFB3AE-E96C-4E20-93F2-40558A4206BE}
+	EndGlobalSection
+EndGlobal
