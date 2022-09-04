@@ -1,0 +1,8 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\bin\Debug\prac Q6 Arraylist Remove Method 30Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\bin\Debug\prac Q6 Arraylist Remove Method 30Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\bin\Debug\prac Q6 Arraylist Remove Method 30Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\obj\Debug\prac Q6 Arraylist Remove Method 30Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\obj\Debug\prac Q6 Arraylist Remove Method 30Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\obj\Debug\prac Q6 Arraylist Remove Method 30Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\obj\Debug\prac Q6 Arraylist Remove Method 30Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q6 Arraylist Remove Method 30Aug\prac Q6 Arraylist Remove Method 30Aug\obj\Debug\prac Q6 Arraylist Remove Method 30Aug.pdb
