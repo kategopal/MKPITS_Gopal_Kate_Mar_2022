@@ -1,0 +1,6 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\bin\Debug\bankclasslibrary2.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\obj\Debug\bankclasslibrary2.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\obj\Debug\bankclasslibrary2.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\obj\Debug\bankclasslibrary2.dll
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\obj\Debug\bankclasslibrary2.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\bankclasslibrary2\bankclasslibrary2\obj\Debug\bankclasslibrary2.csproj.CopyComplete
