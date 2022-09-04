@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass_Q1_class_Student_25Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass_Q1_class_Student_25Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\bin\Debug\Ass Q1 class Student 25Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\bin\Debug\Ass Q1 class Student 25Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\bin\Debug\Ass Q1 class Student 25Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q1 class Student 25Aug\Ass Q1 class Student 25Aug\obj\Debug\Ass Q1 class Student 25Aug.pdb
