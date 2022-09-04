@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\bin\Debug\Ass Q4 print minor, young or old 22Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\bin\Debug\Ass Q4 print minor, young or old 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\bin\Debug\Ass Q4 print minor, young or old 22Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass_Q4_print_minor__young_or_old_22Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass_Q4_print_minor__young_or_old_22Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Ass Q4 print minor, young or old 22Aug\Ass Q4 print minor, young or old 22Aug\obj\Debug\Ass Q4 print minor, young or old 22Aug.pdb
