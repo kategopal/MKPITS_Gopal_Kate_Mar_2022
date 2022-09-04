@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\bin\Debug\prac Q4 Resigtration Form 22Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\bin\Debug\prac Q4 Resigtration Form 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\bin\Debug\prac Q4 Resigtration Form 22Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac_Q4_Resigtration_Form_22Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac_Q4_Resigtration_Form_22Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q4 Resigtration Form 22Aug\prac Q4 Resigtration Form 22Aug\obj\Debug\prac Q4 Resigtration Form 22Aug.pdb
