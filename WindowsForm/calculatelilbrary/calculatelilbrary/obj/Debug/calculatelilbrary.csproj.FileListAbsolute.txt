@@ -1,0 +1,6 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\bin\Debug\calculatelilbrary.dll
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\bin\Debug\calculatelilbrary.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.dll
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.pdb
