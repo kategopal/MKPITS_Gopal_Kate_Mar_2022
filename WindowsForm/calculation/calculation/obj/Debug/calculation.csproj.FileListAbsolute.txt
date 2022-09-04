@@ -1,0 +1,14 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\bin\Debug\calculation.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\bin\Debug\calculation.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\bin\Debug\calculatelilbrary.dll
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\bin\Debug\calculatelilbrary.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.csproj.CopyComplete
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\calculation\calculation\obj\Debug\calculation.pdb
