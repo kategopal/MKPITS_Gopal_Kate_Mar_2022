@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\bin\Debug\prac Q1 single dim Array 23Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\bin\Debug\prac Q1 single dim Array 23Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\bin\Debug\prac Q1 single dim Array 23Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac_Q1_single_dim_Array_23Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac_Q1_single_dim_Array_23Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 single dim Array 23Aug\prac Q1 single dim Array 23Aug\obj\Debug\prac Q1 single dim Array 23Aug.pdb
