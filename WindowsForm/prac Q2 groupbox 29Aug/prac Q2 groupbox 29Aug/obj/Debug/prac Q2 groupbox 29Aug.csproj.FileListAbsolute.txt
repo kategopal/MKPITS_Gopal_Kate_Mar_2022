@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\bin\Debug\prac Q2 groupbox 29Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\bin\Debug\prac Q2 groupbox 29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\bin\Debug\prac Q2 groupbox 29Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac_Q2_groupbox_29Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac_Q2_groupbox_29Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q2 groupbox 29Aug\prac Q2 groupbox 29Aug\obj\Debug\prac Q2 groupbox 29Aug.pdb
