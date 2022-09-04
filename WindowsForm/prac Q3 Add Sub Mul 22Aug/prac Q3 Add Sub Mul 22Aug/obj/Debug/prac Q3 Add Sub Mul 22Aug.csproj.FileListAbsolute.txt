@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\bin\Debug\prac Q3 Add Sub Mul 22Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\bin\Debug\prac Q3 Add Sub Mul 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\bin\Debug\prac Q3 Add Sub Mul 22Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac_Q3_Add_Sub_Mul_22Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac_Q3_Add_Sub_Mul_22Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q3 Add Sub Mul 22Aug\prac Q3 Add Sub Mul 22Aug\obj\Debug\prac Q3 Add Sub Mul 22Aug.pdb
