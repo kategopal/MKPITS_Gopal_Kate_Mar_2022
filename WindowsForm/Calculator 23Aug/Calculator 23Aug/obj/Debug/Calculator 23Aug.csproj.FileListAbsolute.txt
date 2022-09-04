@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\bin\Debug\Calculator 23Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\bin\Debug\Calculator 23Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\bin\Debug\Calculator 23Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator_23Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator_23Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Calculator 23Aug\Calculator 23Aug\obj\Debug\Calculator 23Aug.pdb
