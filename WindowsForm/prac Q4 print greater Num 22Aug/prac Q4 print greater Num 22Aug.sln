@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac Q4 print greater Num 22Aug", "prac Q4 print greater Num 22Aug\prac Q4 print greater Num 22Aug.csproj", "{5E177081-43AC-4E24-A9AF-E5D22E9EA890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E177081-43AC-4E24-A9AF-E5D22E9EA890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E177081-43AC-4E24-A9AF-E5D22E9EA890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E177081-43AC-4E24-A9AF-E5D22E9EA890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E177081-43AC-4E24-A9AF-E5D22E9EA890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF5046E-A9B2-4282-B0F9-5E10032992E5}
+	EndGlobalSection
+EndGlobal
