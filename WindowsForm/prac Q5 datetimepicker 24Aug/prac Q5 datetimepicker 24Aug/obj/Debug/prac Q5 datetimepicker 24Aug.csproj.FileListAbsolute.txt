@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\bin\Debug\prac Q5 datetimepicker 24Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\bin\Debug\prac Q5 datetimepicker 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\bin\Debug\prac Q5 datetimepicker 24Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac_Q5_datetimepicker_24Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac_Q5_datetimepicker_24Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q5 datetimepicker 24Aug\prac Q5 datetimepicker 24Aug\obj\Debug\prac Q5 datetimepicker 24Aug.pdb
