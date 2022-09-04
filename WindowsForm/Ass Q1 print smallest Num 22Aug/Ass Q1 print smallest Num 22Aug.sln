@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass Q1 print smallest Num 22Aug", "Ass Q1 print smallest Num 22Aug\Ass Q1 print smallest Num 22Aug.csproj", "{BDDC7BAA-AD32-4973-A4DC-50D78AB98FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDC7BAA-AD32-4973-A4DC-50D78AB98FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC7BAA-AD32-4973-A4DC-50D78AB98FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC7BAA-AD32-4973-A4DC-50D78AB98FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC7BAA-AD32-4973-A4DC-50D78AB98FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED649CE-1583-4A9B-8AF2-2AEE65E6DCF6}
+	EndGlobalSection
+EndGlobal
