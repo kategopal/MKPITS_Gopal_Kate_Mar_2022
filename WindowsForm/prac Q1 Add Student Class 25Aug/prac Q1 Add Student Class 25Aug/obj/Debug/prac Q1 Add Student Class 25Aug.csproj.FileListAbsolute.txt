@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\bin\Debug\prac Q1 Add Student Class 25Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\bin\Debug\prac Q1 Add Student Class 25Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\bin\Debug\prac Q1 Add Student Class 25Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac_Q1_Add_Student_Class_25Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac_Q1_Add_Student_Class_25Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q1 Add Student Class 25Aug\prac Q1 Add Student Class 25Aug\obj\Debug\prac Q1 Add Student Class 25Aug.pdb
