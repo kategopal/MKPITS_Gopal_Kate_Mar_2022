@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\bin\Debug\prac Q9 hsscroll bar 29Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\bin\Debug\prac Q9 hsscroll bar 29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\bin\Debug\prac Q9 hsscroll bar 29Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac_Q9_hsscroll_bar_29Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac_Q9_hsscroll_bar_29Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q9 hsscroll bar 29Aug\prac Q9 hsscroll bar 29Aug\obj\Debug\prac Q9 hsscroll bar 29Aug.pdb
