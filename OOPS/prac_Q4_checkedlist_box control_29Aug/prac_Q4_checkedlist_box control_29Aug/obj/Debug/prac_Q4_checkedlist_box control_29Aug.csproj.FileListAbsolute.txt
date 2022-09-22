@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\bin\Debug\prac_Q4_checkedlist_box control_29Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\bin\Debug\prac_Q4_checkedlist_box control_29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\bin\Debug\prac_Q4_checkedlist_box control_29Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box_control_29Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box_control_29Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q4_checkedlist_box control_29Aug\prac_Q4_checkedlist_box control_29Aug\obj\Debug\prac_Q4_checkedlist_box control_29Aug.pdb
