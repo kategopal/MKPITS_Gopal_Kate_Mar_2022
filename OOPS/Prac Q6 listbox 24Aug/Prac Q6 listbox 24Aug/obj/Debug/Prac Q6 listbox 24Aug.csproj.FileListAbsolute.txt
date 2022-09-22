@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\bin\Debug\Prac Q6 listbox 24Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\bin\Debug\Prac Q6 listbox 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\bin\Debug\Prac Q6 listbox 24Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac_Q6_listbox_24Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac_Q6_listbox_24Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug\obj\Debug\Prac Q6 listbox 24Aug.pdb

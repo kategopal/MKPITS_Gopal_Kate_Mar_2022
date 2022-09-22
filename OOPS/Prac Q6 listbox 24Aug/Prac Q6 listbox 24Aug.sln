@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac Q6 listbox 24Aug", "Prac Q6 listbox 24Aug\Prac Q6 listbox 24Aug.csproj", "{F28F9185-CA58-407E-B60C-99DD023A7943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28F9185-CA58-407E-B60C-99DD023A7943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28F9185-CA58-407E-B60C-99DD023A7943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28F9185-CA58-407E-B60C-99DD023A7943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28F9185-CA58-407E-B60C-99DD023A7943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DD9F4B-F4D3-45CB-AA28-EFB53D814829}
+	EndGlobalSection
+EndGlobal
