@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac_Q8_design menu_control_29Aug", "prac_Q8_design menu_control_29Aug\prac_Q8_design menu_control_29Aug.csproj", "{D72FE0B5-2DDD-4445-935B-FCC1FC68325D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72FE0B5-2DDD-4445-935B-FCC1FC68325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72FE0B5-2DDD-4445-935B-FCC1FC68325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72FE0B5-2DDD-4445-935B-FCC1FC68325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72FE0B5-2DDD-4445-935B-FCC1FC68325D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F9575A7-86EE-4225-987C-088F449D8920}
+	EndGlobalSection
+EndGlobal
