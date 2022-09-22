@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\bin\Debug\prac_Q3_do while_loop_22Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\bin\Debug\prac_Q3_do while_loop_22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\bin\Debug\prac_Q3_do while_loop_22Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do_while_loop_22Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do_while_loop_22Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug\obj\Debug\prac_Q3_do while_loop_22Aug.pdb

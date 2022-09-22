@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac_Q3_do while_loop_22Aug", "prac_Q3_do while_loop_22Aug\prac_Q3_do while_loop_22Aug.csproj", "{7D12AF6D-AAF8-40B6-ACED-88D585503C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D12AF6D-AAF8-40B6-ACED-88D585503C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D12AF6D-AAF8-40B6-ACED-88D585503C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D12AF6D-AAF8-40B6-ACED-88D585503C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D12AF6D-AAF8-40B6-ACED-88D585503C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6045C4-EC29-4774-B488-79D6037A45A5}
+	EndGlobalSection
+EndGlobal
