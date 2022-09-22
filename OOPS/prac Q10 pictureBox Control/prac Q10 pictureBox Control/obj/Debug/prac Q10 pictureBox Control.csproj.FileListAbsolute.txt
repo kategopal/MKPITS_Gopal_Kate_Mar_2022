@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\bin\Debug\prac Q10 pictureBox Control.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\bin\Debug\prac Q10 pictureBox Control.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\bin\Debug\prac Q10 pictureBox Control.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac_Q10_pictureBox_Control.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac_Q10_pictureBox_Control.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q10 pictureBox Control\prac Q10 pictureBox Control\obj\Debug\prac Q10 pictureBox Control.pdb

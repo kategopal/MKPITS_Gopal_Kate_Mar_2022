@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac Q10 pictureBox Control", "prac Q10 pictureBox Control\prac Q10 pictureBox Control.csproj", "{52167938-228D-4882-AEF1-90EF4C17EB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52167938-228D-4882-AEF1-90EF4C17EB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52167938-228D-4882-AEF1-90EF4C17EB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52167938-228D-4882-AEF1-90EF4C17EB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52167938-228D-4882-AEF1-90EF4C17EB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFBAE3F-4D93-4A8F-BD33-8C6DF4B9BA03}
+	EndGlobalSection
+EndGlobal
