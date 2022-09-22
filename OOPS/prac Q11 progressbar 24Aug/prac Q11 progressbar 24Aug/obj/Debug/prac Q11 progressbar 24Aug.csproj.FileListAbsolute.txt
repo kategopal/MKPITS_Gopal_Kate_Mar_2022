@@ -1,0 +1,11 @@
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\bin\Debug\prac Q11 progressbar 24Aug.exe.config
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\bin\Debug\prac Q11 progressbar 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\bin\Debug\prac Q11 progressbar 24Aug.pdb
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.csproj.AssemblyReference.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.csproj.SuggestedBindingRedirects.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac_Q11_progressbar_24Aug.Form1.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac_Q11_progressbar_24Aug.Properties.Resources.resources
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.csproj.GenerateResource.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.csproj.CoreCompileInputs.cache
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.exe
+C:\Users\gopal kate\Desktop\Dot.Net programs\prac Q11 progressbar 24Aug\prac Q11 progressbar 24Aug\obj\Debug\prac Q11 progressbar 24Aug.pdb
